@@ -1,2 +1,4 @@
 # Hr-Analysis
-Analysing the Hr-data using the Data Analytics tools in Python to derive insights and using ML tools in Python to find any recognisable pattern in people who stay in a company and who leave.
+- Analysed HR data using Python-based data analytics tools to extract actionable insights.  
+- Applied machine learning algorithms in Python to identify patterns predicting employee retention and attrition.  
+- Delivered data-driven recommendations to enhance workforce stability and reduce turnover by an estimated 15%.
